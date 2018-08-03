@@ -1,4 +1,4 @@
-package com.learnakka;
+package com.example;
 
 public class HelloWorld {
 	
